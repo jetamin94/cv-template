@@ -7,7 +7,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -28,7 +28,7 @@ email: thangnv1509@gmail.com
 phone: 0165 799 0013
 # website: blog.webjeda.com #do not add http://
 linkedin: thangnv1509
-github: jetamin
+# github: jetamin
 twitter: '@jetamin'
 #Update all the sections by editing the files inside _data folder.
 
