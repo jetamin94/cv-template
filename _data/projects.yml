@@ -1,23 +1,14 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
+    title: PMS - Properties Management System
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Manage all booking sites from one place and keep availability and rates always in sync with all connected on-line channels."
   - project:
-    title: Tempo
+    title: Temando
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "A shipping platform that helps retailers manage the fulfillment process from the shopping cart through to delivery"
   - project:
-    title: Atom
+    title: ALS - Apartments Listing System
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "An apartments listing platform that connect apartment seekers and hosts together."

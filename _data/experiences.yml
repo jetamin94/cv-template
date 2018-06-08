@@ -1,16 +1,14 @@
 - experience:
-  role: Front-end Developer
+  role: UI Developer
   time: Feb 2018 - Present
   company: Agiletech
-  details: ""
+  details: "UI developer, Implement PMS user interface using ReactJs."
 - experience:
   role: Developer
   time: May-2017 - Feb-2018
   company: FPT Software
-  details: "Working as a partner of Temando Co. Temando is a shipping platform that helps
-  retailers manage the fulfillment process from the shopping cart through to delivery,
-  the core technologies that we use for this project are Nodejs and Amazon Web Service (AWS)
-  I integrated many carriers to Temando System, implemented features based on carrier’s specifications,"
+  details: "Backend developer, Integrated many carriers to Temando System, implemented features based on carrier’s specifications,
+  the core technologies that I use for this project are Nodejs and Amazon Web Service (AWS)."
 - experience:
   role: Website Developer
   time: Oct 2015 - Jun 2016
