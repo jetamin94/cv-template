@@ -15,4 +15,4 @@ projects:
   - project:
       title: Ursmiles
       link: "#"
-      tagline: "---"
+      tagline: "A platform which manages dentist bookings from patient including many features related to dental problems."
