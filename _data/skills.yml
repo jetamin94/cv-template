@@ -1,5 +1,5 @@
 - skill:
-  name: Javascript & jQuery
+  name: Javascript & Jquery
   level: 98%
 - skill:
   name: HTML5 & CSS
@@ -8,10 +8,10 @@
   name: Nodejs
   level: 95%
 - skill:
-  name: Reactjs
+  name: Reactjs & Angular
   level: 80%
 - skill:
-  name: Mongodb, Sql
+  name: MariaDB, SQL
   level: 60%
 - skill:
   name: Sketch & Photoshop
@@ -19,3 +19,18 @@
 - skill:
   name: AWS
   level: 35%
+- skill: 
+  name: MongoDB, DynamoDB
+  level: 40%
+- skill: 
+  name: Redis
+  level: 70%
+- skill:
+  name: Docker
+  level: 60%
+- skill:
+  name: Testing (ChaiJS, Mocha, Sinon, etc.)
+  level: 70%
+- skill:
+  name: OS (Linux Ubuntu, MacOS, Windows)
+  level: 85%
