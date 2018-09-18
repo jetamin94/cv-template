@@ -1,16 +1,27 @@
 - experience:
-  role: UI Developer
-  time: Feb 2018 - Present
+  role: Full Stack Developer
+  time: May 2018 - Current
   company: Agiletech
-  details: "UI developer, Implement PMS user interface using ReactJs."
+  details: "Writing resful APIs for Ursmile project build and manage database by using NodeJs, ExpressJs, MariaDB as database.
+  And Build IOS appication by using ReactNative, ReactJS for web UI developments"
 - experience:
-  role: Developer
+  role: UI Developer
+  time: Feb 2018 - May 2018
+  company: Agiletech
+  details: "create UI codebase, Implement PMS project using ReactJs, design UI/UX."
+- experience:
+  role: Backend Developer
   time: May-2017 - Feb-2018
   company: FPT Software
-  details: "Backend developer, Integrated many carriers to Temando System, implemented features based on carrier’s specifications,
-  the core technologies that I use for this project are Nodejs and Amazon Web Service (AWS)."
+  details: "Backend developer, Integrated many carriers to Temando System, manage and develop as sever-side developer, implemented features based on carrier’s specifications include,
+  the core technologies that I used for this project are Nodejs and Amazon Web Service (AWS), Lambda, DynamoDB, EC2, etc."
+- experience:
+  role: Project Manager
+  time: Jan 2015 - May 2017
+  company: FPT
+  details: "Manage ALS project and working with team members as a full-stack developer using various of technologies and the main one is MEAN stack as know as MongoDB, ExpressJS, Angular, and Nodejs"
 - experience:
   role: Website Developer
   time: Oct 2015 - Jun 2016
   company: DongBat Software Solution and Service Co.Ltd
-  details: "Website Developer, Working with Nodejs, Angular and Express, Mongodb, etc."
+  details: "Website Developer, Working with various of javascript libraries that support for website development such as MEAN stack and testing library, ChaiJS, MochaJs, Sinon, etc."

@@ -16,3 +16,7 @@ projects:
     title: Ursmiles
     link: "#"
     tagline: "A platform which manages dentist bookings from patient including many features related to dental problems."
+  - project:
+    title: FMS - Fleet Management System
+    link: "#"
+    tagline: "A standard interface to vehicle data of commercial vehicles."
