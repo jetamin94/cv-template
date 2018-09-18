@@ -13,6 +13,6 @@ projects:
     link: "#"
     tagline: "An apartments listing platform that connect apartment seekers and hosts together."
   - project:
-      title: Ursmiles
-      link: "#"
-      tagline: "A platform which manages dentist bookings from patient including many features related to dental problems."
+    title: Ursmiles
+    link: "#"
+    tagline: "A platform which manages dentist bookings from patient including many features related to dental problems."
