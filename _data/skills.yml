@@ -16,15 +16,15 @@
 - skill:
   name: MariaDB, SQL
   level: 60%
+- skill: 
+  name: MongoDB, DynamoDB
+  level: 40%
 - skill:
   name: Sketch & Photoshop
   level: 60%
 - skill:
   name: AWS
   level: 35%
-- skill: 
-  name: MongoDB, DynamoDB
-  level: 40%
 - skill: 
   name: Redis
   level: 70%
