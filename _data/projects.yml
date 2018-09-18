@@ -12,3 +12,7 @@ projects:
     title: ALS - Apartments Listing System
     link: "#"
     tagline: "An apartments listing platform that connect apartment seekers and hosts together."
+  - project:
+      title: Ursmiles
+      link: "#"
+      tagline: "---"
